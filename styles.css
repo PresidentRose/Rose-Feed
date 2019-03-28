@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(black,red);
+}
+p{
+    color:gold;
+}
+h1{
+    color:white;
+}
+.lucas,.eleven,.mike,.dustin{
+    display:none;
+}
